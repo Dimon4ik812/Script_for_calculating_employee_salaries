@@ -25,7 +25,7 @@
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone 
+git clone git@github.com:Dimon4ik812/Script_for_calculating_employee_salaries.git
 ```
 
 ### 2. установите зависимости
